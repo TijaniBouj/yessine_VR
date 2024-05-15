@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: muzzleflash_cross
+  m_Shader: {fileID: 10720, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 0fa0affb8cbb9ff49a0c15850ac26301, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AutoShift: 0
+    - _AutoShiftSpeed: 0.25
+    - _BlendMode: 2
+    - _Contrast: 0
+    - _Culling: 0
+    - _Cutoff: 0.5
+    - _Cutout: 0
+    - _Distortion: 0
+    - _DistortionBlend: 1
+    - _DistortionSpeedX: 0
+    - _DistortionSpeedY: 0
+    - _DistortionStr: 0
+    - _DstBlend: 1
+    - _Falloff: 0
+    - _Filtering: 0
+    - _HDR: 0
+    - _Hue: 0
+    - _InvFade: 1
+    - _IsCutout: 0
+    - _Layering: 0
+    - _Luminance: 0
+    - _MaxRange: 15
+    - _MinRange: 8
+    - _NearMaxRange: 5
+    - _NearMinRange: 1
+    - _Saturation: 1
+    - _SoftenStr: 0
+    - _Softening: 0
+    - _SrcBlend: 5
+    - _TexBlendMode: 0
+    - _ZT: 2
+    - _ZTest: 0
+    - _ZWriting: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _SecondColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}
